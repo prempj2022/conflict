@@ -5,7 +5,7 @@ public class Cricket {
 		System.out.println("yuvi");
 		}
     private void jerseynum() {
-    	System.out.println("111112");
+    	System.out.println("1");
     	System.out.println("15");
     	
     	
