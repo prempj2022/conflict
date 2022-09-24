@@ -6,7 +6,7 @@ public class Cricket {
 		}
     private void jerseynum() {
     	System.out.println("111112");
-    	System.out.println("12");
+    	System.out.println("15");
     	
     	
     }
