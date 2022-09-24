@@ -5,7 +5,10 @@ public class Cricket {
 		System.out.println("yuvi");
 		}
     private void jerseynum() {
+    	System.out.println("111112");
     	System.out.println("12");
+    	
+    	
     }
     public static void main(String[] args) {
 		//objectcreation
