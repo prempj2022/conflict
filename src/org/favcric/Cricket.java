@@ -6,6 +6,8 @@ public class Cricket {
 		}
     private void jerseynum() {
     	System.out.println("12");
+    	System.out.println("12345");
+    	
     }
     public static void main(String[] args) {
 		//objectcreation
